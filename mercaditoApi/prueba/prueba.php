@@ -1,3 +1,3 @@
 <?php
-  //cambie esto 
+echo "hola mundo";
 ?>
